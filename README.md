@@ -29,7 +29,7 @@ Currently pursuing my Master's in IT in Business Data Analysis at International 
 ### 🎯 My Goal
 Combining finance expertise with data analytics and business intelligence to support better, data-driven business decisions.
 
-###🌍 Location
+### 🌍 Location
 Budapest, Hungary
 
 ### 📫 Connect
